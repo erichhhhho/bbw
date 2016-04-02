@@ -191,6 +191,7 @@ while(o!=0)
     printf("(6)删除位置i的元素\n");
     printf("(7)输出顺序表\n");
     printf("(8)合并顺序表La和Lb到Lc\n");
+    printf("(9)隐藏功能\n")
     printf("(0)退出\n");
 
   scanf("%d",&o);
